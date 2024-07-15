@@ -1,1 +1,3 @@
-print("Hello World!")
+<<<<<<< HEAD
+print("Hello world!")
+>>>>>>> Inter_b/master
